@@ -1,3 +1,5 @@
-I've been a backend developer since 2019. I can quickly adapt to technologies and development areas that are new for me.
-Moreover, I'm interested in studying and always open to challenges and projects with many research and non-trivial tasks.
-I always try to do my work responsibly. Also, I have experience working in a team and always try to contribute to our work projects.
+As a seasoned backend developer with 4+ years of experience, I've developed a passion for exploring the entire tech stack. I'm now expanding my skill set to become a versatile Full Stack developer, with a keen interest in Web3 technologies. I thrive in environments where I can learn, adapt, and innovate quickly. With a strong foundation in backend development, I'm excited to dive into the world of frontend development and blockchain-based systems.
+
+I'm always on the lookout for challenging projects that push me out of my comfort zone, whether it's building scalable web applications, designing intuitive user interfaces, or integrating decentralized solutions. My experience working in teams has taught me the importance of collaboration, open communication, and responsible ownership of my work.
+
+As I continue to learn and grow as a Full Stack developer and Web3 enthusiast, I'm eager to take on complex tasks that require creative problem-solving and innovative thinking. Whether it's exploring new programming languages, frameworks, or technologies, I'm always up for a challenge that helps me level up my skills and contribute to cutting-edge projects.
